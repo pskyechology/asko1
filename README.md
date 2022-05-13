@@ -1,5 +1,7 @@
 ### asko1
 
+Discord: asko1#6482
+
 > Quick knowledge, fast solutions.
 
 My best projects are
