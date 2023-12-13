@@ -1,12 +1,10 @@
 ### asko1
 
-Discord: asko1#6482
-
-> Quick knowledge, fast solutions.
+> Quotes are cool, but have you ever tried spending 8 hours to make a working thing just a tiny bit better?
 
 My best projects are
 
-[A school infosystem developed using a simulated client-dev relationship to mimic actual development in a company](https://github.com/Kuldz/Users)
+[A school infosystem developed using a simulated client-dev relationship to mimic development proccesses in a company](https://github.com/Kuldz/Users)
 
 [Example REST API in Java](https://github.com/asko1/movie)
 
